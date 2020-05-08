@@ -24,13 +24,13 @@ Now to create a project:
 
 ```
 $ gatsby new tutorial-site
-$ cs tutorial-site
+$ cd tutorial-site
 ```
 
 Alternatively you can include a git repository in the arguments like so:
 
 ```
-gatsby new tutorial-site https://github.com/user/project
+$ gatsby new tutorial-site https://github.com/user/project
 ```
 
 ---
